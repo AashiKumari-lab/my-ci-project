@@ -11,3 +11,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+// This is a test for Jenkins CI trigger
